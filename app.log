@@ -1,0 +1,12 @@
+2026-09-11 09:00:01 INFO Server started
+2026-09-11 09:01:12 INFO User login successful
+2026-09-11 09:02:30 WARNING High memory usage
+2026-09-11 09:03:15 ERROR Database connection failed
+2026-09-11 09:04:20 INFO Database connection restored
+2026-09-11 09:05:45 INFO User login successful
+2026-09-11 09:06:10 ERROR API request failed
+2026-09-11 09:07:22 WARNING CPU usage high
+2026-09-11 09:08:30 INFO Backup started
+2026-09-11 09:09:45 INFO Backup completed
+2026-09-11 09:10:05 ERROR Database connection failed
+2026-09-11 09:11:15 INFO Database connection restored
